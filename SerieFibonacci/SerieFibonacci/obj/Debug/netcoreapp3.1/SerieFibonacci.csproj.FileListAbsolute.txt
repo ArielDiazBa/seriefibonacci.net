@@ -1,0 +1,14 @@
+C:\Users\G4br1\source\repos\SerieFibonacci\SerieFibonacci\bin\Debug\netcoreapp3.1\SerieFibonacci.exe
+C:\Users\G4br1\source\repos\SerieFibonacci\SerieFibonacci\bin\Debug\netcoreapp3.1\SerieFibonacci.deps.json
+C:\Users\G4br1\source\repos\SerieFibonacci\SerieFibonacci\bin\Debug\netcoreapp3.1\SerieFibonacci.runtimeconfig.json
+C:\Users\G4br1\source\repos\SerieFibonacci\SerieFibonacci\bin\Debug\netcoreapp3.1\SerieFibonacci.runtimeconfig.dev.json
+C:\Users\G4br1\source\repos\SerieFibonacci\SerieFibonacci\bin\Debug\netcoreapp3.1\SerieFibonacci.dll
+C:\Users\G4br1\source\repos\SerieFibonacci\SerieFibonacci\bin\Debug\netcoreapp3.1\SerieFibonacci.pdb
+C:\Users\G4br1\source\repos\SerieFibonacci\SerieFibonacci\obj\Debug\netcoreapp3.1\SerieFibonacci.csproj.AssemblyReference.cache
+C:\Users\G4br1\source\repos\SerieFibonacci\SerieFibonacci\obj\Debug\netcoreapp3.1\SerieFibonacci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\G4br1\source\repos\SerieFibonacci\SerieFibonacci\obj\Debug\netcoreapp3.1\SerieFibonacci.AssemblyInfoInputs.cache
+C:\Users\G4br1\source\repos\SerieFibonacci\SerieFibonacci\obj\Debug\netcoreapp3.1\SerieFibonacci.AssemblyInfo.cs
+C:\Users\G4br1\source\repos\SerieFibonacci\SerieFibonacci\obj\Debug\netcoreapp3.1\SerieFibonacci.csproj.CoreCompileInputs.cache
+C:\Users\G4br1\source\repos\SerieFibonacci\SerieFibonacci\obj\Debug\netcoreapp3.1\SerieFibonacci.dll
+C:\Users\G4br1\source\repos\SerieFibonacci\SerieFibonacci\obj\Debug\netcoreapp3.1\SerieFibonacci.pdb
+C:\Users\G4br1\source\repos\SerieFibonacci\SerieFibonacci\obj\Debug\netcoreapp3.1\SerieFibonacci.genruntimeconfig.cache
